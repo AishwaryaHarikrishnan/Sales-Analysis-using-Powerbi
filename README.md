@@ -7,7 +7,7 @@ Importing the chocolate sales data into Power BI.
 Creating a data model to facilitate analysis and visualization.
 Incorporating calculated fields and filtering options to enable more comprehensive analysis.
 Generating various visualizations and dashboards to gain deeper insights into the data.
-## Visualizations and Dashboards [power BI report] https://app.powerbi.com/groups/me/reports/98eaf5fa-4436-4e39-9303-a8c562084dee/ReportSectionf6db8105b05167a008ba
+## Visualizations and Dashboards [power BI report]https://app.powerbi.com/groups/me/reports/98eaf5fa-4436-4e39-9303-a8c562084dee/ReportSectionf6db8105b05167a008ba
 
 The Power BI report consisted of the following visualizations and dashboards:
 
@@ -37,4 +37,5 @@ pb-sales-analysis-blank.xlsx: The original data file used in the analysis.
 
 ## Overview
 
-![Screenshot 2023-05-22 031129](https://github.com/AishwaryaHarikrishnan/Sales-Analysis-using-Powerbi/assets/123670163/6242a74d-ac70-42c8-8915-0ca9a0256172)
+
+![Screenshot 2023-05-22 031129](https://github.com/AishwaryaHarikrishnan/Sales-Analysis-using-Powerbi/assets/123670163/0b5e0cdb-869b-48a8-b4ec-601452854b7a)
