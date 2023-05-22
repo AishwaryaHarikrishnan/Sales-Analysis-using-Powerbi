@@ -36,4 +36,5 @@ Chocolate SAles.pbix: The Power BI file containing the data model and visualizat
 pb-sales-analysis-blank.xlsx: The original data file used in the analysis.
 
 ## Overview
-![Sales Dashboard](https://github.com/AishwaryaHarikrishnan/Sales-Analysis-using-Powerbi/assets/123670163/19845ea6-6de7-43e8-9609-a8eb9ba3a0d2)
+
+![Screenshot 2023-05-22 031129](https://github.com/AishwaryaHarikrishnan/Sales-Analysis-using-Powerbi/assets/123670163/6242a74d-ac70-42c8-8915-0ca9a0256172)
