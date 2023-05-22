@@ -38,4 +38,5 @@ pb-sales-analysis-blank.xlsx: The original data file used in the analysis.
 ## Overview
 
 
-![Screenshot 2023-05-22 031129](https://github.com/AishwaryaHarikrishnan/Sales-Analysis-using-Powerbi/assets/123670163/0b5e0cdb-869b-48a8-b4ec-601452854b7a)
+![Screenshot 2023-05-22 105113](https://github.com/AishwaryaHarikrishnan/Sales-Analysis-using-Powerbi/assets/123670163/b2ae9e02-2abf-4159-8a5e-99c7b1e5fcfa)
+
